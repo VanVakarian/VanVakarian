@@ -37,7 +37,7 @@
   <td width="325pix">
 
 ###### 🇸 🇹 🇦 🇹 🇸 &nbsp; 📊
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanad1um4&layout=compact&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanVakarian&layout=compact&theme=prussian)
   </td>
     
   </tr>
